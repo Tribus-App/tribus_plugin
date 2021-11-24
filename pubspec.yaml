@@ -1,0 +1,75 @@
+name: church_plugin
+description: A new Flutter project.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ">=2.15.0-162.0.dev <3.0.0"
+  flutter: ">=2.5.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+
+  bot_toast: ^4.0.1
+  contrast_checker: ^0.0.2
+  cupertino_icons: ^1.0.2
+  equatable:
+  encrypt: ^5.0.1
+  eva_icons_flutter: ^2.0.0
+  flutter_inappwebview: ^5.3.2
+  flutter_masked_text: ^0.8.0
+  flutter_mobx: ^2.0.0
+  flutter_placeholder_textlines: ^1.1.0
+  flutter_secure_storage: ^5.0.0-beta.5
+  get_it: ^6.1.1
+  http:
+  image_downloader: ^0.31.0
+  image_gallery_saver: ^1.6.9
+  intl:
+  material_color_generator: ^1.1.0
+  mobx: ^2.0.1
+  modal_bottom_sheet: ^2.0.0
+  path: ^1.7.0
+  path_provider: ^2.0.1
+  pointycastle: ^3.3.5
+  provider:
+  receive_intent: ^0.1.5
+  shared_preferences: ^0.5.7+3
+  url_launcher: ^6.0.9
+  youtube_player_flutter: ^8.0.0
+
+dependency_overrides:
+  shortcut:
+    git:
+      url: git://github.com/thesanchesoficial/shortcut
+      ref: main
+
+  downloads_path_provider_28:
+    git:
+      url: git://github.com/djwagler/downloads_path_provider
+      ref: master
+
+  open_file:
+    git:
+      url: git://github.com/zxl777/open_file
+      ref: master
+
+  cpfcnpj:
+    git:
+      url: git://github.com/dblinks/dart-cpfcnpj
+      ref: master
+      
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.0.15
+  mobx_codegen: ^2.0.1+2
+  build_runner: ^2.1.2
+  recase: ^3.0.0
+  pedantic: ^1.10.0-nullsafety
+
+flutter:
+  uses-material-design: true
