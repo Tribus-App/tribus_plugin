@@ -1,3 +1,4 @@
+library church_plugin;
 import 'dart:convert';
 
 import 'package:church_plugin/src/domain/entities/menu_entity.dart';

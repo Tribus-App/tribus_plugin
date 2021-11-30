@@ -1,3 +1,4 @@
+library church_plugin;
 import 'package:flutter/material.dart';
 import 'package:flutter_placeholder_textlines/placeholder_lines.dart';
 

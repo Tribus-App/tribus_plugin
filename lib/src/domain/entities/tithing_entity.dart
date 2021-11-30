@@ -1,3 +1,4 @@
+library church_plugin;
 import '../helpers/frequency_type.dart';
 import 'user_entity.dart';
 

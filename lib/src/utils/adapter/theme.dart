@@ -1,3 +1,4 @@
+library church_plugin;
 import 'package:flutter/material.dart';
 
 class ThemeAdapter {

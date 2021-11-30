@@ -1,3 +1,4 @@
+library church_plugin;
 import 'dart:convert';
 
 class SocialNetworkEntity {

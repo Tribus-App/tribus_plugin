@@ -1,3 +1,4 @@
+library church_plugin;
 import 'note_entity.dart';
 import 'passage_entity.dart';
 

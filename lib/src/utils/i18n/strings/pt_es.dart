@@ -1,6 +1,5 @@
+library church_plugin;
 import 'package:church_plugin/src/utils/i18n/strings/translations.dart';
-
-// ! = Verificar primeiro em inglês
 
 class PtEs implements Translations {
   String get about => "Sobre";

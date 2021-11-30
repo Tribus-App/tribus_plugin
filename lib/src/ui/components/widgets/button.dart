@@ -1,5 +1,6 @@
 // ignore_for_file: must_be_immutable
 
+library church_plugin;
 import 'package:flutter/material.dart';
 
 class MNButton extends StatelessWidget {

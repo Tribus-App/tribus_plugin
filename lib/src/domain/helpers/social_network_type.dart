@@ -1,3 +1,4 @@
+library church_plugin;
 enum SocialNetworkType {
   facebook,
   instagram,

@@ -1,3 +1,4 @@
+library church_plugin;
 class GamificationEntity {
   int maxPerseverance;
   int currentPerseverance;

@@ -1,3 +1,5 @@
+library church_plugin;
+
 class AnswerEntity {
   dynamic answer;
   bool correct;

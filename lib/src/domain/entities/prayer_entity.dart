@@ -1,3 +1,4 @@
+library church_plugin;
 class PrayerEntity {
   String reason;
   String description;

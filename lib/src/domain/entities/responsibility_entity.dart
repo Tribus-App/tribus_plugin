@@ -1,3 +1,4 @@
+library church_plugin;
 import 'permission_entity.dart';
 
 class ResponsibilityEntity {

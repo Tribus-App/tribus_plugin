@@ -1,3 +1,4 @@
+library church_plugin;
 class PassageEntity {
   String book;
   int chapter;

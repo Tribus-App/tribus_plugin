@@ -1,3 +1,4 @@
+library church_plugin;
 import 'package:church_plugin/src/domain/entities/card_expanded_entity.dart';
 import 'package:flutter/material.dart';
 

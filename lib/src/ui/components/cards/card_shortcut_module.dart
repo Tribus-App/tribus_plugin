@@ -1,3 +1,4 @@
+library church_plugin;
 import 'package:church_plugin/src/domain/entities/module_church_entity.dart';
 import 'package:church_plugin/src/ui/components/cards/card_text_spotlight.dart';
 import 'package:church_plugin/src/utils/i18n/resources.dart';

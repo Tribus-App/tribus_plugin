@@ -1,3 +1,4 @@
+library church_plugin;
 import 'package:church_plugin/src/domain/entities/user_entity.dart';
 import 'package:equatable/equatable.dart';
 

@@ -1,5 +1,6 @@
 // ignore_for_file: import_of_legacy_library_into_null_safe
 
+library church_plugin;
 import 'package:flutter_masked_text/flutter_masked_text.dart';
 
 String toPrice(

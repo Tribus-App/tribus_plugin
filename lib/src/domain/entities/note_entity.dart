@@ -1,3 +1,4 @@
+library church_plugin;
 class NoteEntity {
   String title;
   String message;

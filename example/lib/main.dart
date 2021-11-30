@@ -1,7 +1,7 @@
 // ignore_for_file: implementation_imports
 
 import 'package:church_plugin/church_plugin.dart';
-import 'package:church_plugin/src/ui/components/widgets/button.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -36,7 +36,9 @@ class _MyAppState extends State<MyApp> {
               MNButton(
                 labelText: "Test button",
                 onPressed: () {
-                  // print("${ChurchPackage.current!.appName}");
+                  if (kDebugMode) {
+                    print(ChurchPackage.current!.appName);
+                  }
                 },
               ),
             ],

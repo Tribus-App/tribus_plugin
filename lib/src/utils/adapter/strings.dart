@@ -1,3 +1,4 @@
+library church_plugin;
 import 'package:church_plugin/src/utils/i18n/resources.dart';
 
 class TextAdapter {

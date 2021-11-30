@@ -1,3 +1,4 @@
+library church_plugin;
 abstract class Translations {
   String get about;
   String get access;

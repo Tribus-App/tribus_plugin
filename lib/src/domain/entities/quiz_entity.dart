@@ -1,3 +1,4 @@
+library church_plugin;
 import 'answer_entity.dart';
 
 class QuizEntity {

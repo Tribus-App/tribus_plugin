@@ -1,3 +1,4 @@
+library church_plugin;
 import 'dart:convert';
 
 import '../helpers/payment_account_type.dart';

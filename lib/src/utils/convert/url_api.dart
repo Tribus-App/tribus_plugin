@@ -1,3 +1,4 @@
+library church_plugin;
 import 'package:church_plugin/church_plugin.dart';
 import 'package:church_plugin/src/utils/i18n/resources.dart';
 import 'package:church_plugin/src/utils/i18n/strings/pt_br.dart';

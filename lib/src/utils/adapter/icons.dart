@@ -1,5 +1,5 @@
 // ignore_for_file: import_of_legacy_library_into_null_safe
-
+library church_plugin;
 import 'package:eva_icons_flutter/icon_data.dart';
 import 'package:flutter/material.dart';
 
