@@ -1,4 +1,3 @@
-library church_plugin;
 import 'package:church_plugin/src/domain/entities/country_language_entity.dart';
 import 'package:church_plugin/src/ui/components/box/route.dart';
 import 'package:church_plugin/src/utils/i18n/route.dart';

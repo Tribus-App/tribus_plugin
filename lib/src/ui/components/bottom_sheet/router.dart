@@ -1,1 +1,0 @@
-library church_plugin;

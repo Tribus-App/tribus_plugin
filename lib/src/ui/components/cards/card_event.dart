@@ -1,4 +1,3 @@
-library church_plugin;
 import 'package:church_plugin/src/domain/entities/events_entity.dart';
 import 'package:church_plugin/src/ui/theme/app_theme.dart';
 import 'package:flutter/material.dart';

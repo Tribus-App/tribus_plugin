@@ -1,6 +1,6 @@
 library church_plugin;
 
-import '../package.dart';
+import '../../package.dart';
 
 import '../domain/helpers/environment_type.dart';
 

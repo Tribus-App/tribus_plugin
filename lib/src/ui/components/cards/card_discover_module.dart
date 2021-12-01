@@ -1,4 +1,3 @@
-library church_plugin;
 import 'package:church_plugin/src/domain/entities/module_church_entity.dart';
 import 'package:flutter/material.dart';
 

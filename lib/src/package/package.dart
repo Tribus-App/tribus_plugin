@@ -1,5 +1,3 @@
-library church_plugin;
-
 class ChurchPackage {
   static ChurchPackage? current;
 

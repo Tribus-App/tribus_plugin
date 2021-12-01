@@ -1,4 +1,3 @@
-library church_plugin;
 import 'package:flutter/material.dart';
 
 showModal(BuildContext context, Widget widget, {bool isDismissible = true}) async {

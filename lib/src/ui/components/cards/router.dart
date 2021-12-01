@@ -1,5 +1,3 @@
-library church_plugin;
-
 export './card_basic_horizontal_scroll_widget.dart';
 export './card_basic_widget.dart';
 export './card_box_module.dart';

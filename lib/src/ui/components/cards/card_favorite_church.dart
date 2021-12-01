@@ -1,6 +1,5 @@
 // ignore_for_file: import_of_legacy_library_into_null_safe
 
-library church_plugin;
 import 'package:church_plugin/src/ui/components/cards/card_text_spotlight.dart';
 import 'package:church_plugin/src/utils/i18n/resources.dart';
 import 'package:eva_icons_flutter/eva_icons_flutter.dart';
