@@ -1,5 +1,3 @@
-library church_plugin;
-
 export './address_entity.dart';
 export './answer_entity.dart';
 export './bible/route.dart';

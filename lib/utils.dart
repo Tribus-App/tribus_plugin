@@ -1,4 +1,3 @@
-library utils;
 export 'src/utils/adapter/route.dart';
 export 'src/utils/convert/route.dart';
 export 'src/utils/i18n/route.dart';

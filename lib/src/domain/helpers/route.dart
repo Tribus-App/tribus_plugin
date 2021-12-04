@@ -1,4 +1,3 @@
-library church_plugin;
 export 'domain_error.dart';
 export 'environment_type.dart';
 export 'frequency_type.dart';
