@@ -18,6 +18,6 @@ Uri convertApi(String router, {Map<String, dynamic>? params}) {
   });
 
   return Uri.parse(
-    "${ChurchPackage.current!.url}$router?lang=$lang&api_key=${ChurchPackage.current!.apiKey}$urlParams",
+    "${ChurchPackage.current!.baseUrl}$router?lang=$lang&api_key=${ChurchPackage.current!.apiKey}$urlParams",
   );
 }
